@@ -1,0 +1,16 @@
+Nom: OUEDRAOGO 
+Prenom: DAOUDA 
+N°CE: CI0223066020
+
+
+nom admin : DAOUD    
+mots de passe admin   1111
+
+
+utilisateur            mots de passe
+
+1: OUEDRAOGO           1111
+2: DIDI                2222
+3: ALI                 3333
+4: SARAH               4444
+5: EVE                 5555
